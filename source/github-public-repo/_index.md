@@ -2,7 +2,7 @@
 title: Github Public Repo
 ---
 
-- This page was imported from a **Github Public Repo**.
+- This page was imported from a [Github Public Repo](https://github.com/YEU-Bertus/trial-public-repo).
 
 ## Lorem
 
